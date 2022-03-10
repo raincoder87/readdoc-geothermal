@@ -57,8 +57,8 @@ html_theme = "sphinx_book_theme"
 html_logo = "_static/logo-wide.svg"
 html_favicon = "_static/logo-square.svg"
 html_theme_options = {
-    "github_url": "https://github.com/executablebooks/myst-nb",
-    "repository_url": "https://github.com/executablebooks/myst-nb",
+    "github_url": "https://github.com/raincoder87/readdoc-geothermal",
+    "repository_url": "https://github.com/raincoder87/readdoc-geothermal",
     "repository_branch": "master",
     "use_edit_page_button": True,
     "path_to_docs": "docs/",
@@ -68,7 +68,7 @@ html_theme_options = {
 intersphinx_mapping = {
     "python": ("https://docs.python.org/3.8", None),
     "jb": ("https://jupyterbook.org/", None),
-    "myst": ("https://myst-parser.readthedocs.io/en/latest/", None),
+    "myst": ("https://readdoc-geothermal.readthedocs.io/en/latest/", None),
     "markdown_it": ("https://markdown-it-py.readthedocs.io/en/latest", None),
     "nbclient": ("https://nbclient.readthedocs.io/en/latest", None),
     "nbformat": ("https://nbformat.readthedocs.io/en/latest", None),
